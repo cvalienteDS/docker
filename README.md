@@ -1,5 +1,5 @@
 Description:
-Simple Python app that retrieves data from API and inserts in sqlite
+Simple Python app that retrieves data from API and UPSERTS in sqlite
 
 Usage:
 
