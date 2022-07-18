@@ -3,7 +3,7 @@ Simple Python app that retrieves data from API and UPSERTS in sqlite
 
 Usage:
 
-Go to docker folder in whick Dockerfile is
+Go to folder in whick Dockerfile is
 
 Launch Docker daemon. For example by starting Docker desktop
 
